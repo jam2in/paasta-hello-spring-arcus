@@ -179,7 +179,7 @@
 		<dependency>
 			<groupId>com.navercorp.arcus</groupId>
 			<artifactId>arcus-java-client</artifactId>
-			<version>1.9.6</version>
+			<version>1.10.0</version>
 		</dependency>
 
 		<!-- json -->
