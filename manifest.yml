@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-spring-arcus
+  memory: 512M
+  instances: 1
+  path: target/hello-spring-arcus-1.0.0-BUILD-SNAPSHOT.war
